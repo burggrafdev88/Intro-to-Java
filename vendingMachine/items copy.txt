@@ -1,0 +1,8 @@
+Soda,Sprite,1.5,5,true
+Candy,Snickers,0.85,10,true
+Soda,Pepsi,1.5,5,true
+Soda,Pepsi Free,1.5,3,false
+Candy,Reeses,0.75,1,false
+Candy,Almond Joy,0.65,6,true
+Candy,Rollos,0.75,8,false
+Soda,Mtn Dew,0.9,8,true
